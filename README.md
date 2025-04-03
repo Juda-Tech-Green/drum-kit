@@ -4,7 +4,7 @@
 
 A fun, interactive drum kit built with pure **JavaScript**, **HTML5**, and **CSS3**. Play drums right in your browser! Perfect for music lovers and coding enthusiasts.
 
-![Drum Kit Screenshot](images/Drum Kit Screenshot.png) <!-- Add a screenshot later -->
+<img src="images/Drum Kit Screenshot.png" width="200" align="center"></img>
 
 ## 🚀 Features
 - 🔊 **Realistic sounds**: High-quality drum samples
