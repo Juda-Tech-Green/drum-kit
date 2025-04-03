@@ -26,7 +26,7 @@ Clone the repo:
   git clone https://github.com/your-username/drum-kit.git
   cd drum-kit && open index.html
 
-## 🎮 How to Play
+<h2> 🎮 How to Play </h2>
 W - Crash
 A - Kick Bass
 S - Snare
