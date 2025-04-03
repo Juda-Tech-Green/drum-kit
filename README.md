@@ -21,11 +21,11 @@ A fun, interactive drum kit built with pure **JavaScript**, **HTML5**, and **CSS
 Play it here: https://juda-tech-green.github.io/drum-kit/
 
 ## 🏗️ How to Run Locally
-1. Clone the repo:
+Clone the repo:
    ```bash
    git clone https://github.com/your-username/drum-kit.git
    cd drum-kit && open index.html
-```
+
 ## 🎮 How to Play
 W - Crash
 A - Kick Bass
