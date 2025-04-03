@@ -24,3 +24,22 @@ Play it here: #
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/drum-kit.git
+   cd drum-kit && open index.html
+```
+## 🎮 How to Play
+W - Crash
+A - Kick Bass
+S - Snare
+D - Tom 1
+J - Tom 2
+K - Tom 3
+
+## 🌟 Why I Built This
+- To practice DOM manipulation and event listeners
+- Learn the Web Audio API
+- Create something fun that makes noise!
+
+## 📜 License
+MIT © [JuDa](https://github.com/Juda-Tech-Green)
+Made with 💚 and JavaScript
+(https://img.shields.io/badge/dev-environmentalist-green)
