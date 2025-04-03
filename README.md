@@ -6,7 +6,7 @@ A fun, interactive drum kit built with pure **JavaScript**, **HTML5**, and **CSS
 
 ## 🚀 Features
 - 🔊 **Realistic sounds**: High-quality drum samples
-- ⌨️ **Keyboard support**: Play with keys (WASDJKL)
+- ⌨️ **Keyboard support**: Play with keys (WASDJK)
 - 📱 **Responsive design**: Works on desktop and mobile
 - 🎨 **Visual feedback**: Animations when drums are hit
 
