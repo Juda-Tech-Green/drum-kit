@@ -40,4 +40,5 @@ Clone the repo:
 ## 📜 License
 MIT © [JuDa](https://github.com/Juda-Tech-Green)
 Made with 💚 and JavaScript
-(https://img.shields.io/badge/dev-environmentalist-green)
+
+![Pro environmentalist badge](https://img.shields.io/badge/dev-environmentalist-green)
