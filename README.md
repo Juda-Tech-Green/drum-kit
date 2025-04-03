@@ -22,9 +22,10 @@ Play it here: https://juda-tech-green.github.io/drum-kit/
 
 ## 🏗️ How to Run Locally
 Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/drum-kit.git
-   cd drum-kit && open index.html
+```bash
+git clone https://github.com/your-username/drum-kit.git
+cd drum-kit && open index.html
+
 
 ## 🎮 How to Play
 W - Crash
