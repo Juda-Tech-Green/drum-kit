@@ -1,5 +1,3 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg1ZzYzaDV5enVhcDNuMWxtcTB3amY5cWN5MG94OTJuc2Q1emwxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ayw27gpmCCSE5NZuh8/giphy.gif" align="left" width="240"></img>
-
 # 🥁 JavaScript Drum Kit 🎶
 
 A fun, interactive drum kit built with pure **JavaScript**, **HTML5**, and **CSS3**. Play drums right in your browser! Perfect for music lovers and coding enthusiasts.
