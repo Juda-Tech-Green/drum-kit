@@ -18,7 +18,7 @@ A fun, interactive drum kit built with pure **JavaScript**, **HTML5**, and **CSS
 - **Tools**: GitHub Pages (Hosting)
 
 ## 🌐 Live Demo
-Play it here: #
+Play it here: https://juda-tech-green.github.io/drum-kit/
 
 ## 🏗️ How to Run Locally
 1. Clone the repo:
