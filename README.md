@@ -25,8 +25,8 @@ Clone the repo:
   ```bash
   git clone https://github.com/your-username/drum-kit.git
   cd drum-kit && open index.html
-
-<h2> 🎮 How to Play </h2>
+  ```
+## 🎮 How to Play 
 W - Crash
 A - Kick Bass
 S - Snare
