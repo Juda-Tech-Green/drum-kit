@@ -27,12 +27,12 @@ Clone the repo:
   cd drum-kit && open index.html
   ```
 ## 🎮 How to Play 
-W - Crash
-A - Kick Bass
-S - Snare
-D - Tom 1
-J - Tom 2
-K - Tom 3
+- W - Crash
+- A - Kick Bass
+- S - Snare
+- D - Tom 1
+- J - Tom 2
+- K - Tom 3
 
 ## 🌟 Why I Built This
 - To practice DOM manipulation and event listeners
